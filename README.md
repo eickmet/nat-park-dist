@@ -21,3 +21,10 @@ Future Development:
   1. Update County data with 2010 or 2014+ Census Data. Currently at 2000 Census Data I belive 
   2. Comment and Orginize the files to provide better readablity.
   3. Allow easier intergration into other possible adjacent county based projects. 
+
+
+To run and create a map:
+```
+  python county.py > usaCounties.svg
+```
+  Then preview the map.
